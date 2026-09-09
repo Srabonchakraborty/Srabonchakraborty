@@ -5,7 +5,7 @@ Email Me 👉 ✉️ **chakrabortysrabon253@gmail.com** For Collaboration/Projec
 
 - 🔭 **I’m currently working on:** Build autonomous rovers / robotic arm projects
 - 🌱 **I’m currently learning:** ROS2 (Robot Operating System), Embedded C, and Computer Vision
-- 👯 **I’m looking to collaborate on:** Open-source robotics and automation frameworks
+- 🧑‍🚀 **I’m looking to collaborate on:** Open-source robotics and automation frameworks
 - 🤔 **I’m looking for help with:** Kinematics simulations and advanced PCB design
 - 💬 **Ask me about:** Robotics, Microcontrollers (Arduino/ESP32/Raspberry Pi), and Sensors
 - 😄 **Pronouns:** Srabon
