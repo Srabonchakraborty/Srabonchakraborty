@@ -17,7 +17,7 @@ Email Me 👉 ✉️ **chakrabortysrabon253@gmail.com** For Collaboration/Projec
 <!-- Snake Game Repo View -->
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://profile-readme-generator.com/assets/dinosaur.svg" alt="Dinosaur animation" />
 </div>
 
 # 💻 Tech Stack:
