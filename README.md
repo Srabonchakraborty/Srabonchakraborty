@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Srabon Chakraborty
-**A passionate Robotics 🤖 
+**A passionate Roboticist 🤖 
 
 Email Me 👉 ✉️ **chakrabortysrabon253@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
