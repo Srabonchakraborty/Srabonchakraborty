@@ -4,7 +4,33 @@
 
 <br/>
 
-# 💫 Hi 👋, I'm Srabon Chakraborty
+<div align="center">
+
+  <!-- Heading -->
+  <h1>Hey 👋 What's Up? I'm Srabon Chakraborty</h1>
+
+  <!-- Smooth Typing Text Animation with Vibrant Color -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=00F0FF&center=true&vCenter=true&width=550&lines=Robotics+%26+Embedded+Systems;Autonomous+LFR+Developer;ROS2+%26+Computer+Vision+Learner;CSE+Undergraduate" alt="Typing SVG" />
+  </a>
+
+  <br/>
+  <!-- Followers & Stars Badges -->
+  <p align="center">
+    <a href="https://github.com/Srabonchakraborty?tab=followers">
+      <img src="https://img.shields.io/github/followers/Srabonchakraborty?label=Followers&logo=github&style=flat-square&color=2ea44f" alt="Followers Badge" />
+    </a>
+    <a href="https://github.com/Srabonchakraborty">
+      <img src="https://img.shields.io/github/stars/Srabonchakraborty?label=Stars&logo=github&style=flat-square&color=2ea44f" alt="Stars Badge" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+---
+
 **A passionate Roboticist 🤖 
 
 Email Me 👉 ✉️ **chakrabortysrabon253@gmail.com** For Collaboration/Project or Anything Else. 😊😊
