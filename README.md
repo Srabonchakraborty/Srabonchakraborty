@@ -3,6 +3,7 @@
 
 Email Me 👉 ✉️ **chakrabortysrabon253@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
+- 🎓 Studies: Computer Science & Engineering.
 - 🔭 **I’m currently working on:** Build LFR projects
 - 🌱 **I’m currently learning:** ROS2 (Robot Operating System), Embedded C, and Computer Vision
 - 🧑‍🚀 **I’m looking to collaborate on:** Open-source robotics and automation frameworks
