@@ -1,3 +1,16 @@
+<div align="center">
+  <img src="35afb7ed4335ee44768930740877ee3a.jpg" alt="Profile Banner" width="100%" />
+</div>
+
+<br/>
+
+### 👾 Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Srabonchakraborty/Srabonchakraborty/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Srabonchakraborty/Srabonchakraborty/output/github-snake.svg">
+  <img alt="Contribution Animation" src="https://raw.githubusercontent.com/Srabonchakraborty/Srabonchakraborty/output/github-snake.svg" width="100%">
+</picture>
+
 # 💫 Hi 👋, I'm Srabon Chakraborty
 **A passionate Roboticist 🤖 
 
